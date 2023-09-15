@@ -1,0 +1,19 @@
+.tags-list-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.tag-container {
+  background-color: #dfe2e6;
+  color: black;
+
+  font-size: 12px;
+  border-radius: 5px;
+
+  font-weight: bold;
+  margin: 10px;
+  padding: 3px;
+}
+.tag-name {
+  margin: 0px;
+}

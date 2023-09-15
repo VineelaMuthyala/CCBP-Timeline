@@ -1,0 +1,13 @@
+.time-line-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.course-heading {
+  text-align: center;
+  color: #0967d2;
+}
+.main-heading {
+  text-align: center;
+}
